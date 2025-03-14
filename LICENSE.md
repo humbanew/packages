@@ -1,12 +1,15 @@
 <div align="center">
 
-  ![Cabeçalho LICENSE md](https://github.com/humbanew/hn-license/blob/main/assets/cabecalho-LICENSE.md-v5.svg)
+  <img src="https://strg.humbanew.com.br/projects/cabecalholicensev5.png" alt="Humbanew License Header v5" />
 
 </div>
 
-MIT License "adapted"
+MIT License
+*adapted version*
 
 Copyright (c) 2015-2025 Humbanew Project
+
+The Flawuldragon, SPECTRE CYAN PRISM CODENAME
 
 ## A. Global Terms by MIT License
 
